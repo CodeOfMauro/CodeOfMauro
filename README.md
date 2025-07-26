@@ -19,7 +19,7 @@ Hier sind einige meiner Projekte:
 
 
 
-   <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/49fcbddd-d9cf-4c84-98e6-461b640e3c22" />
+   <img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/49fcbddd-d9cf-4c84-98e6-461b640e3c22" />
 
   
 

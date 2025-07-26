@@ -1,3 +1,8 @@
+## Willkommen auf meinem GitHub-Profil!
+
+Hallo, ich bin David Maurin @CodeOfScappy!
+
+
 ## Über mich
 - 👨‍💻 Ich bin ein leidenschaftlicher Entwickler, spezialisiert auf Java.
 - 🎓 Ich habe einen Abschluss als Staatl. Gepr. Java Entwickler bei der Universität SGD-Darmstadt.

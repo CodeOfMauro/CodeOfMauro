@@ -1,5 +1,5 @@
 ## Über mich
-👨‍💻 Ich bin ein leidenschaftlicher Entwickler, spezialisiert auf Java.
+##👨‍💻 Ich bin ein leidenschaftlicher Entwickler, spezialisiert auf Java.
 🎓 Ich habe einen Abschluss als Staatl. Gepr. Java Entwickler bei der Universität SGD-Darmstadt.
 🌱 Ich lerne derzeit Python und JavaScrip.
 🤝 Ich bin offen für Kollaborationen, Jobangebote.

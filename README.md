@@ -1,6 +1,5 @@
 ## Willkommen auf meinem GitHub-Profil!
-
-Hallo, ich bin David Maurin @CodeOfScappy!
+Hallo, ich bin CodeOfMauro!
 
 
 ## Über mich
@@ -9,11 +8,14 @@ Hallo, ich bin David Maurin @CodeOfScappy!
 - 🤝 Ich bin offen für Kollaborationen, Jobangebote.
 - 
 ## Meine Projekte
+
 Hier sind einige meiner Projekte:
 
 - Projekt 1:
 - Projekt 2: 
 - Projekt 3: 
+
+
 
 
 

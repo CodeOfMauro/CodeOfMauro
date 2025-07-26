@@ -19,7 +19,7 @@ Hier sind einige meiner Projekte:
 
 
 
-   <img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/49fcbddd-d9cf-4c84-98e6-461b640e3c22" />
+ <img src="https://blob.virtualbadge.io/event-10171/openbadges/badges/c5c2c9a3-39a4-4042-b79f-ceb6380dcef5.png?se=3000-01-01&sp=rwdl&sv=2019-12-12&sr=c&sig=dQAfv%2B4X%2Bcw2WKFuHOCs0MYaIwtn%2BMBhQgHwAeaqAD8%3D&377" width="500" alt="Zertifizierungsname">
 
   
 

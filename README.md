@@ -6,8 +6,7 @@ Hallo, ich bin CodeOfMauro!
 - 👨‍💻 Ich bin ein leidenschaftlicher Entwickler, spezialisiert auf Java.
 - 🎓 Ich habe einen Abschluss als Staatl. Gepr. Java Entwickler bei der Universität SGD-Darmstadt.
 - 🤝 Ich bin offen für Kollaborationen, Jobangebote.
-- 
-## Meine Projekte
+  
 
 
 

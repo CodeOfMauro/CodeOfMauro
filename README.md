@@ -9,11 +9,7 @@ Hallo, ich bin CodeOfMauro!
 - 
 ## Meine Projekte
 
-Hier sind einige meiner Projekte:
 
-- Projekt 1:
-- Projekt 2: 
-- Projekt 3: 
 
 
 
